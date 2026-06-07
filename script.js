@@ -64,7 +64,7 @@ function showNotification(message) {
 // ==========================================
 // 4. WhatsApp Checkout Engine
 // ==========================================
-const WHATSAPP_NUMBER = "2349035823482"; // <-- REPLACE WITH YOUR REAL PHONE NUMBER WITH COUNTRY CODE
+const WHATSAPP_NUMBER = "2348170253890"; // <-- REPLACE WITH YOUR REAL PHONE NUMBER WITH COUNTRY CODE
 
 document.querySelectorAll('.buy-btn').forEach(button => {
     button.addEventListener('click', (e) => {
